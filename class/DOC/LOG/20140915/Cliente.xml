@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='V106343027'><![CDATA[Mon, 15 Sep 2014 14:42:28 UTC -> Registro exitoso por id: 96 en: ->127.0.0.1]]></LOG>
+<LOG TP='V106343027'><![CDATA[Mon, 15 Sep 2014 14:46:25 UTC -> Registro exitoso por id: 96 en: ->127.0.0.1_A_CREDITO]]></LOG>
+<LOG TP='V106343027'><![CDATA[Mon, 15 Sep 2014 15:21:28 UTC -> Registro exitoso por id: 96 en: ->127.0.0.1_A_CREDITO]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 15 Sep 2014 15:25:53 UTC -> Registro exitoso por id: 96 en: ->127.0.0.1_FORMAPAGO: A_CREDITO RIF:V106343027]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 15 Sep 2014 15:29:15 UTC -> Registro exitoso por id: 96 DATOS->IP:127.0.0.1 FORMAPAGO: A CREDITO RIF:V106343027]]></LOG>

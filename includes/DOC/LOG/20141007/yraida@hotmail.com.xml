@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Tue, 7 Oct 2014 13:04:17 UTC -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 7 Oct 2014 13:04:23 UTC -> Buscar RIF.  IP:127.0.0.1 RIF:V196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 7 Oct 2014 13:04:32 UTC -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 7 Oct 2014 13:11:29 UTC -> Buscar RIF.  IP:127.0.0.1 RIF:J314531867]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 7 Oct 2014 14:14:01 UTC -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 7 Oct 2014 14:14:11 UTC -> Buscar RIF.  IP:127.0.0.1 RIF:J314531867]]></LOG>

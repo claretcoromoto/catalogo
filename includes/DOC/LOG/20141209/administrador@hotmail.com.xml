@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Tue, 9 Dec 2014 11:04:40 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 11:06:44 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 11:06:45 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 11:13:51 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 11:13:52 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 9 Dec 2014 11:22:15 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 11:34:21 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 11:34:24 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 11:34:25 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 11:34:27 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 11:35:43 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 11:35:45 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 9 Dec 2014 12:05:17 VET -> Buscar RIF  reasignar cliente. Fallido.  IP: RIF del cliente:V196481482]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 9 Dec 2014 12:08:37 VET -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 9 Dec 2014 13:33:01 VET -> Administrador]]></LOG>

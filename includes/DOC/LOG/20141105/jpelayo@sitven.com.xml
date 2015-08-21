@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Wed, 5 Nov 2014 11:33:09 VET -> Cliente en estatus aprobado]]></LOG>
+<LOG TP='PERFIL'><![CDATA[Wed, 5 Nov 2014 12:04:40 VET -> Cambio de contrase\u00f1a->SQL:SELECT nb_usuario, ci_rif_cliente, tx_clave FROM tblsit_usr  WHERE  tx_login ='jpelayo@sitven.com' AND ci_rif_cliente='V196481482' AND tx_resp_segur='perla']]></LOG>
+<LOG TP='PERFIL'><![CDATA[Wed, 5 Nov 2014 12:04:57 VET -> Cambio de contrase\u00f1a->SQL:SELECT nb_usuario, ci_rif_cliente, tx_clave FROM tblsit_usr  WHERE  tx_login ='jpelayo@sitven.com' AND ci_rif_cliente='V196481482' AND tx_resp_segur='perla']]></LOG>
+<LOG TP='PERFIL'><![CDATA[Wed, 5 Nov 2014 12:05:34 VET -> Cambio de contrase\u00f1a->SQL:SELECT nb_usuario, ci_rif_cliente, tx_clave FROM tblsit_usr  WHERE  tx_login ='jpelayo@sitven.com' AND ci_rif_cliente='V196481482' AND tx_resp_segur='perla']]></LOG>
+<LOG TP='PERFIL'><![CDATA[Wed, 5 Nov 2014 12:06:06 VET -> Cambio de contrase\u00f1a->SQL:SELECT nb_usuario, ci_rif_cliente, tx_clave FROM tblsit_usr  WHERE  tx_login ='jpelayo@sitven.com' AND ci_rif_cliente='V196481482' AND tx_resp_segur='perla']]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 5 Nov 2014 12:07:37 VET -> Cliente en estatus aprobado]]></LOG>
+<LOG TP='PERFIL'><![CDATA[Wed, 5 Nov 2014 12:08:11 VET -> Cambio de contrase\u00f1a->SQL:SELECT nb_usuario, ci_rif_cliente, tx_clave FROM tblsit_usr  WHERE  tx_login ='jpelayo@sitven.com' AND ci_rif_cliente='V196481482' AND tx_resp_segur='perla']]></LOG>
+<LOG TP='PERFIL'><![CDATA[Wed, 5 Nov 2014 12:08:11 VET -> Cambio de contrase\u00f1a->SQL:SELECT nb_usuario, ci_rif_cliente, tx_clave FROM tblsit_usr  WHERE  tx_login ='jpelayo@sitven.com' AND ci_rif_cliente='V196481482' AND tx_resp_segur='perla']]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 5 Nov 2014 13:33:56 VET -> Cliente en estatus aprobado]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 5 Nov 2014 14:07:49 VET -> Cliente en estatus aprobado]]></LOG>

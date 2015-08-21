@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Sat, 10 Jan 2015 9:37:24 CET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 10 Jan 2015 10:10:39 CET -> Buscar RIF  reasignar cliente. Fallido.  IP: RIF del cliente:V101160480]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 10 Jan 2015 10:10:46 CET -> Buscar RIF  reasignar cliente. Fallido.  IP: RIF del cliente:V101160480]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 10 Jan 2015 10:10:50 CET -> Buscar RIF  reasignar cliente, exitoso.  IP: RIF del cliente:V11656729]]></LOG>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 8:03:46 VET -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 8:13:01 VET -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 8:14:13 VET -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 8:17:42 VET -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 8:55:24 VET -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 9:05:10 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 9:12:36 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 9:12:39 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 9:15:33 VET -> Actualización exitosa estatus del pedido.  IP: 127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 9:15:35 VET -> Actualización exitosa estatus del pedido.  IP: 127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 10:22:33 VET -> SQL exitoso:UPDATE tblxian_motivo_anul SET nb_motivo_anul= ' MOROSIDAD ', in_tipo=2 responsable='administrador@hotmail.com' WHERE id_motivo_anul=' 1 '  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 10:22:45 VET -> SQL exitoso:UPDATE tblxian_motivo_anul SET nb_motivo_anul= ' MOROSIDAD ', in_tipo=2 responsable='administrador@hotmail.com' WHERE id_motivo_anul=' 1 '  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 10:25:05 VET -> SQL exitoso:UPDATE tblxian_motivo_anul SET nb_motivo_anul= ' SUPERA EL LÍMITE DE CRÉDITO ', in_tipo=1,  responsable='administrador@hotmail.com' WHERE id_motivo_anul=' 2 '  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 10:26:34 VET -> SQL exitoso:UPDATE tblxian_motivo_anul SET nb_motivo_anul= ' SUPERA EL LÍMITE DE CRÉDITO ', in_tipo=1,  tx_login='administrador@hotmail.com' WHERE id_motivo_anul=' 2 '  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 10:29:00 VET -> SQL exitoso:UPDATE tblxian_motivo_anul SET nb_motivo_anul= ' SUPERA EL LÍMITE DE CRÉDITO ', in_tipo=1,  tx_login='administrador@hotmail.com' WHERE id_motivo_anul=' 2 '  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 10:29:57 VET -> SQL fallido:UPDATE tblxian_motivo_anul SET nb_motivo_anul= ' MOROSIDAD ', in_tipo=2,  tx_login='administrador@hotmail.com' WHERE id_motivo_anul=' 1 '  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 10:40:55 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 10:46:29 VET -> SQL fallido:UPDATE tblxian_motivo_anul SET nb_motivo_anul= '  SUPERA EL LÍMITE DE CRÉDITO  ', in_tipo=1,  tx_login='administrador@hotmail.com' WHERE id_motivo_anul=' 2 '  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 10:46:33 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 13:17:22 VET -> Update ciudad exitoso. SQL:UPDATE tblsit_ciudad SET nb_ciudad='', id_municipio= WHERE id_ciudad=''  IP:127.0.0.1]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 13:17:59 VET -> SQL exitoso:UPDATE tblxian_cond_vta SET nu_monto_minimo=6000, iva= administrador@hotmail.com WHERE id_cond_vta=   IP:127.0.0.1 ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 13:50:20 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 13:51:23 VET -> SQL exitoso:INSERT INTO tblxian_motivo_anul (nb_motivo_anul,in_activo,in_tipo,tx_login ) VALUES ('INCUMPLIMIENTOS',1,1,'administrador@hotmail.com') IP:127.0.0.1 ]]></LOG>

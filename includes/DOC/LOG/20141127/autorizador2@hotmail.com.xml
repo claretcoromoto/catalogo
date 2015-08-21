@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Thu, 27 Nov 2014 9:48:42 VET -> Autorizador de pedido]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Thu, 27 Nov 2014 10:43:59 VET -> Autorizador de pedido]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 10:44:18 VET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_cant_reservada= (nu_cant_reservada  - 2 ) WHERE cod_repuesto = 'TX007BNG'  IP:127.0.0.1RIF clienteV161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 10:44:18 VET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_disp_valery= (nu_disp_valery  + 2 ) WHERE cod_repuesto = 'TX007BNG'  IP:127.0.0.1RIF clienteV161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 10:44:18 VET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_cant_reservada= (nu_cant_reservada  - 1 ) WHERE cod_repuesto = 'TX007NG'  IP:127.0.0.1RIF clienteV161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 10:44:18 VET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_disp_valery= (nu_disp_valery  + 1 ) WHERE cod_repuesto = 'TX007NG'  IP:127.0.0.1RIF clienteV161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 10:44:18 VET -> El motivo de anulación pedido exitoso. DATOS: IP:127.0.0.1 SQL:INSERT INTO tblsit_hist_clte (f_operacion, in_status_cliente, id_usr,id_motivo_anul, ci_rif_cliente, id_pedido)  VALUES ('2014-11-27',1, 5, 2, 'V161962453', 74 ) ]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 11:07:03 VET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_cant_reservada= (nu_cant_reservada  + 1 ) WHERE cod_repuesto = 'LE026'  IP:127.0.0.1 RIF del clienteV106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 11:07:03 VET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_disp_valery= (nu_disp_valery - 1 ) WHERE cod_repuesto = 'LE026'  IP:127.0.0.1 RIF del clienteV106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 11:07:03 VET -> Aprobación de pedido exitoso. DATOS: IP:127.0.0.1 IDPedido:67  FACTURA:10 ]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 11:25:26 VET -> Aprobación de pedido exitoso. DATOS: IP:127.0.0.1 IDPedido:  FACTURA: ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Thu, 27 Nov 2014 11:31:49 VET -> Autorizador de pedido]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Thu, 27 Nov 2014 11:45:45 VET -> Autorizador de pedido]]></LOG>

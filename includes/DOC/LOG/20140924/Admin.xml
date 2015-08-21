@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='BD'><![CDATA[Wed, 24 Sep 2014 15:54:38 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Alberto Arvelo Torrealba', id_estado=5 WHERE id_municipio='26'  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 24 Sep 2014 15:54:58 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Alberto Arvelo Torrealba', id_estado=5 WHERE id_municipio='26'  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 24 Sep 2014 15:55:18 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Barinassss', id_estado=5 WHERE id_municipio='28'  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 24 Sep 2014 15:55:41 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Barinas', id_estado=5 WHERE id_municipio='28'  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 24 Sep 2014 18:35:53 UTC -> Registro ciudad exitoso. SQL:INSERT INTO tblsit_ciudad (nb_ciudad, id_municipio)  VALUES ('Claret Coromoto',45)  IP:127.0.0.1]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 24 Sep 2014 19:56:22 UTC -> Registro ciudad exitoso. SQL:INSERT INTO tblsit_ciudad (nb_ciudad, id_municipio)  VALUES ('ACOSTA ACOSTA',82)  IP:127.0.0.1]]></LOG>

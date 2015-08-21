@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Mon, 12 Jan 2015 16:48:05 CET -> Autorizador de pedido]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 12 Jan 2015 16:50:01 CET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_cant_reservada= (nu_cant_reservada  - 3 ) WHERE cod_repuesto = '150TA013'  IP:::1RIF clienteV196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 12 Jan 2015 16:50:01 CET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_disp_valery= (nu_disp_valery  + 3 ) WHERE cod_repuesto = '150TA013'  IP:::1RIF clienteV196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 12 Jan 2015 16:50:02 CET -> El motivo de anulación pedido exitoso. DATOS: IP:::1 SQL:INSERT INTO tblsit_hist_clte (f_operacion, in_status_cliente, id_usr,id_motivo_anul, ci_rif_cliente, id_pedido)  VALUES ('2015-01-12',1, 5, 3, 'V196481482', 71 ) ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 12 Jan 2015 16:52:49 CET -> Autorizador de pedido]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 12 Jan 2015 16:58:41 CET -> Autorizador de pedido]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 12 Jan 2015 17:27:59 CET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_cant_reservada= (nu_cant_reservada  - 3 ) WHERE cod_repuesto = '150TA013'  IP:::1RIF clienteV196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 12 Jan 2015 17:27:59 CET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_disp_valery= (nu_disp_valery  + 3 ) WHERE cod_repuesto = '150TA013'  IP:::1RIF clienteV196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 12 Jan 2015 17:27:59 CET -> El motivo de anulación pedido exitoso. DATOS: IP:::1 SQL:INSERT INTO tblsit_hist_clte (f_operacion, in_status_cliente, id_usr,id_motivo_anul, ci_rif_cliente, id_pedido)  VALUES ('2015-01-12',1, 5, 8, 'V196481482', 71 ) ]]></LOG>

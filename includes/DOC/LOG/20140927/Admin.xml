@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 13:51:05 UTC -> Registro ciudad exitoso. SQL:INSERT INTO tblsit_ciudad (nb_ciudad, id_municipio)  VALUES ('Aca',82)  IP:::1]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 13:51:49 UTC -> Registro ciudad exitoso. SQL:INSERT INTO tblsit_ciudad (nb_ciudad, id_municipio)  VALUES ('Acariguaaaa',82)  IP:::1]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 18:09:54 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Aguasay5', id_estado=15 WHERE id_municipio=''  IP:::1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 18:11:07 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Aguasay5', id_estado=15 WHERE id_municipio=''  IP:::1 ]]></LOG>

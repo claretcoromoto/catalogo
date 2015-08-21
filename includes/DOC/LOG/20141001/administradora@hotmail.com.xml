@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 12:24:43 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 12:50:43 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 13:08:15 UTC -> Buscar RIF  reactivar cliente fallido.  IP:127.0.0.1 RIF del cliente:V196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 13:08:21 UTC -> Buscar RIF  reactivar cliente fallido.  IP:127.0.0.1 RIF del cliente:V196481482]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 13:28:38 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 14:24:29 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 14:30:04 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 17:19:55 UTC -> Update exitoso de Repuesto. SQL:UPDATE tblxian_repuesto SET cod_repuesto='' , tx_descripcion='' ,
+                                nu_precio_contado= ,
+                                    nu_precio_credito= , 
+                                nu_cant_disponible= ,   id_categoria=       WHERE cod_repuesto=''  IP:127.0.0.1 EMAIL:administradora@hotmail.com]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 17:23:04 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 17:28:53 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 17:29:17 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 18:09:43 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 18:12:06 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 18:12:32 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 18:13:23 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 18:14:21 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 18:16:03 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 18:16:43 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 18:17:21 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 18:18:55 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 18:26:23 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 1 Oct 2014 18:56:24 UTC -> Administrador]]></LOG>

@@ -1,0 +1,11 @@
+commit 6d2b7b1af819510172ca37be3c93788efca5ac1d
+Author: claretcoromoto <claretcoromoto@hotmail.es>
+Date:   Thu Aug 20 22:17:54 2015 -0430
+
+    agregue otro titulo
+
+commit f67f1cd8b1f8f918695ee09bea15e2c0bcc670fa
+Author: claretcoromoto <claretcoromoto@hotmail.es>
+Date:   Thu Aug 20 22:12:02 2015 -0430
+
+    cambie el titulo de la pestalla

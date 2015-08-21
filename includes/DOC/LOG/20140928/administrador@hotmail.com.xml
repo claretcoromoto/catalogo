@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Sun, 28 Sep 2014 23:19:01 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Sun, 28 Sep 2014 23:20:33 UTC -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_cant_reservada= (nu_cant_reservada + 10 ) WHERE cod_repuesto = 'ARS015'  IP:::1  Id pedido77]]></LOG>
+<LOG TP='BD'><![CDATA[Sun, 28 Sep 2014 23:20:33 UTC -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_disp_valery= (nu_disp_valery  - 10 ) WHERE cod_repuesto = 'ARS015'  IP:::1  Id pedido77]]></LOG>
+<LOG TP='BD'><![CDATA[Sun, 28 Sep 2014 23:20:33 UTC -> Reactivar pedido exitoso. DATOS: IP:::1 EMAIL:administrador@hotmail.com IDPedido:77]]></LOG>
+<LOG TP='BD'><![CDATA[Sun, 28 Sep 2014 23:23:15 UTC -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_cant_reservada= (nu_cant_reservada + 23 ) WHERE cod_repuesto = 'ARS071'  IP:::1  Id pedido82]]></LOG>
+<LOG TP='BD'><![CDATA[Sun, 28 Sep 2014 23:23:15 UTC -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_disp_valery= (nu_disp_valery  - 23 ) WHERE cod_repuesto = 'ARS071'  IP:::1  Id pedido82]]></LOG>
+<LOG TP='BD'><![CDATA[Sun, 28 Sep 2014 23:23:15 UTC -> Reactivar pedido exitoso. DATOS: IP:::1 EMAIL:administrador@hotmail.com IDPedido:82]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Sun, 28 Sep 2014 23:30:13 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Sun, 28 Sep 2014 23:54:39 UTC -> Update exitoso de Repuesto. SQL:UPDATE tblxian_repuesto SET cod_repuesto='AAZZVV' , tx_descripcion='prueba 1 descripcion' ,
+                                nu_precio_contado=100 ,
+                                    nu_precio_credito=200 , 
+                                nu_cant_disponible=66 ,   id_categoria=3       WHERE cod_repuesto='AAZZVV'  IP:::1 EMAIL:administrador@hotmail.com]]></LOG>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Tue, 20 Jan 2015 7:53:59 VET -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 20 Jan 2015 11:03:50 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:04:00 VET -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V106128118]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 20 Jan 2015 11:06:02 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:06:10 VET -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V106128118]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 20 Jan 2015 11:08:13 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:08:18 VET -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:08:28 VET -> Update exitoso de usuario.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 20 Jan 2015 11:11:40 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:21:10 VET -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:21:23 VET -> Update exitoso de usuario.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:21:35 VET -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V106128118]]></LOG>

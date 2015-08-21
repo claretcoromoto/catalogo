@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Thu, 27 Nov 2014 9:27:54 VET -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Thu, 27 Nov 2014 9:36:16 VET -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Thu, 27 Nov 2014 9:36:59 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 9:38:00 VET -> Buscar RIF  reasignar cliente. Fallido.  IP: RIF del cliente:V178414816]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 9:38:04 VET -> Buscar RIF  reasignar cliente. Fallido.  IP: RIF del cliente: V161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 9:38:08 VET -> Buscar RIF  reasignar cliente, exitoso.  IP: RIF del cliente:V106128118]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Thu, 27 Nov 2014 9:46:38 VET -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Thu, 27 Nov 2014 9:51:50 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 9:52:41 VET -> SQL exitoso:INSERT INTO tblxian_motivo_anul (nb_motivo_anul,in_activo,in_tipo,tx_login ) VALUES ('MOROSIDAD',1,2,'administrador@hotmail.com') IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 9:52:50 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 9:52:51 VET -> Actualización exitosa.  IP:127.0.0.1 ROL:1]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 9:53:52 VET -> SQL exitoso:INSERT INTO tblxian_motivo_anul (nb_motivo_anul,in_activo,in_tipo,tx_login ) VALUES ('MOROSIDAD',1,2,'administrador@hotmail.com') IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 9:55:25 VET -> SQL fallido:UPDATE tblxian_motivo_anul SET nb_motivo_anul= ' NO HAY SUFICIENTE REPUESTO ', in_tipo=2,  tx_login='administrador@hotmail.com' WHERE id_motivo_anul=' 2 '  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Thu, 27 Nov 2014 9:58:19 VET -> SQL exitoso:INSERT INTO tblxian_motivo_anul (nb_motivo_anul,in_activo,in_tipo,tx_login ) VALUES ('MOROSIDAD CLIENTE',1,1,'administrador@hotmail.com') IP:127.0.0.1 ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Thu, 27 Nov 2014 10:03:05 VET -> Administrador]]></LOG>

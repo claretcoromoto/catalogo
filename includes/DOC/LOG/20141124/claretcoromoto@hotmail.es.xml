@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 7:59:37 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 7:59:43 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 8:01:06 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 8:01:35 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 8:02:11 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 8:02:17 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 8:02:48 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 8:03:37 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 9:02:05 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:02:12 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:04:29 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V98079374]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 9:09:54 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:10:04 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V178414816]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:10:26 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V178414816]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:10:45 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V178414816]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:11:26 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V178414816]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 9:15:42 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:15:48 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V178414816]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:16:47 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V178414816]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 9:22:08 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:22:14 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V178414816]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:23:11 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V178414816]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 9:27:25 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 9:27:50 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V178414816]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 9:32:26 VET -> Vendedor ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 9:48:02 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:02:47 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'J293800498'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:02:47 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:J293800498]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:03:06 VET -> Buscar RIF.  IP:127.0.0.1 RIF:J293800498]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 10:03:28 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:03:53 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'J293800498'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:03:53 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:J293800498]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:13:17 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'J293800498'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:13:17 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:J293800498]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:16:11 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'J293800498'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:16:11 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:J293800498]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:16:21 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= ''  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:16:21 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:20:03 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'J293800498'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:20:03 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:J293800498]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:20:26 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'J299112798'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:20:26 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:J299112798]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:20:36 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'J299112798'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:20:36 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:J299112798]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:21:40 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:21:40 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:22:13 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:22:13 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:24:15 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:24:15 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:26:44 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'J293800498'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:26:44 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:J293800498]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:27:12 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'J293800498'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:27:12 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:J293800498]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:27:19 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 10:27:19 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 11:52:07 VET -> Clave aleatoria exitosa.  IP:127.0.0.1 EMAIL:claretcoromoto@hotmail.es]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 11:53:22 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 11:53:50 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 11:53:50 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 12:00:46 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:01:37 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:01:37 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:03:33 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:03:33 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 24 Nov 2014 12:04:43 VET -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:05:07 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:05:07 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:07:05 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:07:05 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:07:47 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:07:47 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:15:14 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:15:14 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:16:30 VET -> Buscar RIF.  IP:127.0.0.1 SQL:SELECT ci_rif_cliente, in_status_cliente, id_usr_vendedor  FROM tblsit_usr WHERE ci_rif_cliente= 'V161962453'  AND id_usr_vendedor = 15 AND in_status_cliente=1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 24 Nov 2014 12:16:30 VET -> Buscar RIF pedido.  IP:127.0.0.1 RIF:V161962453]]></LOG>

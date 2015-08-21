@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Fri, 19 Dec 2014 11:20:34 VET -> Autorizador I (clientes)]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Fri, 19 Dec 2014 11:28:09 VET -> Autorizador I (clientes)]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Fri, 19 Dec 2014 11:28:51 VET -> Autorizador I (clientes)]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Fri, 19 Dec 2014 11:29:29 VET -> Autorizador I (clientes)]]></LOG>
+<LOG TP='BD'><![CDATA[Fri, 19 Dec 2014 11:38:44 VET -> Update estatus cliente [PENDIENTE] exitoso. IP:127.0.0.1SQL:INSERT INTO tblsit_hist_clte (f_operacion, in_status_cliente, id_usr, ci_rif_cliente)  VALUES ('2014-12-19',2, 4, 'V226042098' )]]></LOG>
+<LOG TP='BD'><![CDATA[Fri, 19 Dec 2014 11:39:09 VET -> Update estatus cliente [APROBADO] exitoso. IP:127.0.0.1 RIF:V226042098]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Fri, 19 Dec 2014 12:10:21 VET -> Autorizador I (clientes)]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Fri, 19 Dec 2014 12:15:04 VET -> Autorizador I (clientes)]]></LOG>

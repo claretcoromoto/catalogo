@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Mon, 29 Sep 2014 12:02:10 UTC -> Vendedor ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 29 Sep 2014 12:13:43 UTC -> Vendedor ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 29 Sep 2014 12:18:44 UTC -> Vendedor ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 29 Sep 2014 18:12:59 UTC -> Vendedor ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 29 Sep 2014 18:20:55 UTC -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 29 Sep 2014 18:21:11 UTC -> Buscar RIF.  IP:::1 RIF:V98079374]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 29 Sep 2014 18:22:04 UTC -> Buscar RIF.  IP:::1 RIF:V98079374]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Mon, 29 Sep 2014 18:25:48 UTC -> Vendedor ]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 29 Sep 2014 18:25:52 UTC -> Buscar RIF.  IP:::1 RIF:V98079374]]></LOG>
+<LOG TP='BD'><![CDATA[Mon, 29 Sep 2014 18:28:39 UTC -> Buscar RIF.  IP:::1 RIF:V98079374]]></LOG>

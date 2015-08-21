@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 18:12:55 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Aguasay5', id_estado=15 WHERE id_municipio='83'  IP:::1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 18:13:03 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Aguasay', id_estado=15 WHERE id_municipio='83'  IP:::1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 18:15:19 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='AMAZON', id_estado=1 WHERE id_municipio='167'  IP:::1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 18:28:26 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Zamora', id_estado=1 WHERE id_municipio='168'  IP:::1 ]]></LOG>

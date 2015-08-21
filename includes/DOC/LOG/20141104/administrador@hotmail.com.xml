@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 1:28:45 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 1:53:00 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 2:33:48 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 13:00:57 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 4 Nov 2014 13:01:05 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 13:02:18 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 4 Nov 2014 13:02:26 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>

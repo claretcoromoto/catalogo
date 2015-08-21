@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 9:04:28 VET -> Autorizador de pedido]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 13:45:17 VET -> Autorizador de pedido]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 14:10:22 VET -> Autorizador de pedido]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 14:12:01 VET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_cant_reservada= (nu_cant_reservada  - 1 ) WHERE cod_repuesto = 'LE026'  IP:127.0.0.1RIF clienteV106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 14:12:01 VET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_disp_valery= (nu_disp_valery  + 1 ) WHERE cod_repuesto = 'LE026'  IP:127.0.0.1RIF clienteV106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 14:12:01 VET -> El motivo de anulación pedido exitoso. DATOS: IP:127.0.0.1 SQL:INSERT INTO tblsit_hist_clte (f_operacion, in_status_cliente, id_usr,id_motivo_anul, ci_rif_cliente, id_pedido)  VALUES ('2014-11-19',1, 5, 2, 'V106128118', 67 ) ]]></LOG>

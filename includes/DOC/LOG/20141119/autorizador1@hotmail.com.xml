@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 8:29:55 VET -> Autorizador de clientes]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 8:44:30 VET -> Autorizador de clientes]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 8:56:00 VET -> Autorizador de clientes]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 13:52:58 VET -> Autorizador de clientes]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 13:56:00 VET -> El motivo de anulación ha sido establecido en fecha:   DATOS->IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 13:56:12 VET -> El motivo de anulación ha sido establecido en fecha:   DATOS->IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 13:57:49 VET -> El motivo de anulación ha sido establecido en fecha:   DATOS->IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 13:58:17 VET -> El motivo de anulación ha sido establecido en fecha:   DATOS->IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 13:59:22 VET -> El motivo de anulación ha sido establecido en fecha:   DATOS->IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 14:01:47 VET -> El motivo de anulación ha sido establecido en fecha:   DATOS->IP:127.0.0.1 ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 19 Nov 2014 14:12:44 VET -> Autorizador de clientes]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 19 Nov 2014 14:17:04 VET -> Update estatus cliente [PENDIENTE] exitoso. IP:127.0.0.1SQL:INSERT INTO tblsit_hist_clte (f_operacion, in_status_cliente, id_usr, ci_rif_cliente)  VALUES ('2014-11-19',2, 4, 'V196481482' )]]></LOG>

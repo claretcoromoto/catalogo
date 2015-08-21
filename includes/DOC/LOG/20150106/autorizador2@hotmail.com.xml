@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Tue, 6 Jan 2015 8:22:38 VET -> Autorizador de pedido]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 6 Jan 2015 8:36:29 VET -> Autorizador de pedido]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 6 Jan 2015 8:38:10 VET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_cant_reservada= (nu_cant_reservada  + 1 ) WHERE cod_repuesto = 'TX042'  IP:127.0.0.1 RIF del clienteV196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 6 Jan 2015 8:38:10 VET -> SQL:UPDATE tblxian_cantidad_dispon  SET nu_disp_valery= (nu_disp_valery - 1 ) WHERE cod_repuesto = 'TX042'  IP:127.0.0.1 RIF del clienteV196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 6 Jan 2015 8:38:10 VET -> Aprobación de pedido exitoso. DATOS: IP:127.0.0.1 IDPedido:69  FACTURA:500 ]]></LOG>

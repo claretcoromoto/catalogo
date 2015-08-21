@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 16:54:07 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 17:11:07 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V111600470]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 17:30:24 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 17:30:42 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V111600470]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 17:33:24 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V111600470]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 17:37:09 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V111600470]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 17:37:27 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V111600470]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 17:39:46 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 17:54:35 UTC -> Update exitoso de Repuesto. SQL:UPDATE tblxian_repuesto SET cod_repuesto='HOR024' , tx_descripcion='AMORTIGUADORES TRASEROS (ORIGINAL PAR)' ,
+                                nu_precio_contado=10050234768 ,
+                                    nu_precio_credito=10050234768 , 
+                                nu_cant_disponible=917 ,   id_categoria=2       WHERE cod_repuesto='HOR024'  IP:127.0.0.1 EMAIL:administradora@hotmail.com]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 17:55:01 UTC -> Update exitoso de Repuesto. SQL:UPDATE tblxian_repuesto SET cod_repuesto='TX007NG' , tx_descripcion='CARETA DE FARO NEGRA CON GRIS' ,
+                                nu_precio_contado=2040781743 ,
+                                    nu_precio_credito=2040781743 , 
+                                nu_cant_disponible=43 ,   id_categoria=9       WHERE cod_repuesto='TX007NG'  IP:127.0.0.1 EMAIL:administradora@hotmail.com]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 18:08:29 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 18:09:46 UTC -> Update exitoso de Repuesto. SQL:UPDATE tblxian_repuesto SET cod_repuesto='HOR084' , tx_descripcion='KIT DE GOMAS DE TANQUE' ,
+                                nu_precio_contado=447392844045 ,
+                                    nu_precio_credito=447392844045 , 
+                                nu_cant_disponible=307 ,   id_categoria=2       WHERE cod_repuesto='HOR084'  IP:127.0.0.1 EMAIL:administradora@hotmail.com]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 18:13:34 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 18:13:41 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V111600470]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 18:24:16 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 18:51:02 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 18:51:24 UTC -> Update exitoso de Repuesto. SQL:UPDATE tblxian_repuesto SET cod_repuesto='SME017' , tx_descripcion='RETROVISORES ' ,
+                                nu_precio_contado=407722875 ,
+                                    nu_precio_credito=407722875 , 
+                                nu_cant_disponible=169 ,   id_categoria=5       WHERE cod_repuesto='SME017'  IP:127.0.0.1 EMAIL:administradora@hotmail.com]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 18:52:54 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 18:54:09 UTC -> Update exitoso de Repuesto. SQL:UPDATE tblxian_repuesto SET cod_repuesto='HOR014-1' , tx_descripcion='TAPA REDONDA PARA TANQUE' ,
+                                nu_precio_contado=317142694953 ,
+                                    nu_precio_credito=317142694953 , 
+                                nu_cant_disponible=174 ,   id_categoria=2       WHERE cod_repuesto='HOR014-1'  IP:127.0.0.1 EMAIL:administradora@hotmail.com]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 19:16:54 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 19:28:38 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 19:37:38 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 20:13:53 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 20:14:40 UTC -> SQL exitoso:INSERT INTO tblxian_cond_vta (nu_monto_minimo, fe_ini_vigencia, fe_fin_vigencia, id_usr, in_activo, iva) VALUES (1000, '2014-09-30' , '2014-10-31' , 1,  1, 12) IP:127.0.0.1 ]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 20:18:59 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 20:27:50 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):J314531867]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 20:31:15 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V222222222]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 20:33:54 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V333333333]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 30 Sep 2014 20:50:56 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 20:51:57 UTC -> Update Estado exitoso.  IP:127.0.0.1]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 30 Sep 2014 20:52:01 UTC -> Update Estado exitoso.  IP:127.0.0.1]]></LOG>

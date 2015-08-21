@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 10:03:13 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 10:12:36 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 10:19:19 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 10:21:47 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 10:21:51 VET -> Buscar RIF.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 20 Jan 2015 11:03:35 VET -> Cliente en estatus pendiente]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:05:24 VET -> Update exitoso de usuario.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:05:33 VET -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:06:21 VET -> Update exitoso de usuario.  IP:127.0.0.1 RIF:V106128118]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 20 Jan 2015 11:25:08 VET -> Cliente en estatus pendiente]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 20 Jan 2015 11:26:21 VET -> Clave aleatoria exitosa.  IP:127.0.0.1 EMAIL:emadriz@hotmail.com]]></LOG>

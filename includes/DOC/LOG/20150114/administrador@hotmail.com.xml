@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Wed, 14 Jan 2015 14:15:01 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 14 Jan 2015 14:18:37 VET -> Buscar RIF  reasignar cliente. Fallido.  IP: RIF del cliente:v106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 14 Jan 2015 14:18:44 VET -> Buscar RIF  reasignar cliente. Fallido.  IP: RIF del cliente:v106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 14 Jan 2015 14:28:28 VET -> Actualización exitosa.  IP:127.0.0.1 EMAIL:administrador@hotmail.com]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 14 Jan 2015 14:28:30 VET -> Actualización exitosa.  IP:127.0.0.1 EMAIL:administrador@hotmail.com]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 14 Jan 2015 14:32:06 VET -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V106128118]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 14 Jan 2015 15:03:06 VET -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V106128118]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Wed, 14 Jan 2015 15:31:01 VET -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 14 Jan 2015 15:31:07 VET -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V106128118]]></LOG>

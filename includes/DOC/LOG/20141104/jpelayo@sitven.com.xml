@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 12:38:27 UTC -> Cliente en estatus aprobado]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 12:44:39 UTC -> Cliente en estatus aprobado]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 4 Nov 2014 13:01:35 UTC -> Update exitoso de usuario.  IP:127.0.0.1 RIF:V196481482]]></LOG>
+<LOG TP='BD'><![CDATA[Tue, 4 Nov 2014 13:01:44 UTC -> Buscar RIF para actualizar datos de usuario. Desde la IP:127.0.0.1 Al cliente (RIF):V196481482]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 13:02:50 UTC -> Cliente en estatus aprobado]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 13:33:34 UTC -> Cliente en estatus aprobado]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 15:45:09 UTC -> Cliente en estatus aprobado]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 16:32:25 UTC -> Cliente en estatus aprobado]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Tue, 4 Nov 2014 15:11:34 VET -> Cliente en estatus aprobado]]></LOG>

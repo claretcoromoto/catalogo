@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 14:30:31 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Aguasay', id_estado=15 WHERE id_municipio='83'  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 14:36:09 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='', id_estado=15 WHERE id_municipio='82'  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 14:37:39 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='', id_estado=5 WHERE id_municipio='26'  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 14:40:55 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='Alberto Arvelo Torrealba', id_estado=15 WHERE id_municipio='82'  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 14:48:05 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='', id_estado=15 WHERE id_municipio='83'  IP:127.0.0.1 ]]></LOG>
+<LOG TP='BD'><![CDATA[Wed, 1 Oct 2014 14:49:18 UTC -> Update exitoso municipio. SQL:UPDATE tblsit_municipio SET nb_municipio='', id_estado=13 WHERE id_municipio='93'  IP:127.0.0.1 ]]></LOG>

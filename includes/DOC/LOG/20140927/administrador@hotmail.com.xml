@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LOG TP='LOGIN'><![CDATA[Sat, 27 Sep 2014 3:26:53 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Sat, 27 Sep 2014 3:52:33 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Sat, 27 Sep 2014 4:42:46 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Sat, 27 Sep 2014 4:47:07 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Sat, 27 Sep 2014 12:52:45 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Sat, 27 Sep 2014 13:11:14 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 13:51:22 UTC -> Update ciudad exitoso. SQL:UPDATE tblsit_ciudad SET nb_ciudad='Acaprueba', id_municipio=82 WHERE id_ciudad='198'  IP:::1]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Sat, 27 Sep 2014 13:59:18 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 14:01:55 UTC -> Update Estado exitoso.  IP:::1]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 14:02:04 UTC -> Update Estado exitoso.  IP:::1]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Sat, 27 Sep 2014 18:00:32 UTC -> Administrador]]></LOG>
+<LOG TP='LOGIN'><![CDATA[Sat, 27 Sep 2014 18:18:07 UTC -> Administrador]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 18:20:08 UTC -> Update ciudad exitoso. SQL:UPDATE tblsit_ciudad SET nb_ciudad='Acarigua5', id_municipio=102 WHERE id_ciudad='94'  IP:::1]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 18:20:19 UTC -> Update ciudad exitoso. SQL:UPDATE tblsit_ciudad SET nb_ciudad='Acarigua', id_municipio=102 WHERE id_ciudad='94'  IP:::1]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 18:26:53 UTC -> Update Estado exitoso.  IP:::1]]></LOG>
+<LOG TP='BD'><![CDATA[Sat, 27 Sep 2014 18:26:57 UTC -> Update Estado exitoso.  IP:::1]]></LOG>
