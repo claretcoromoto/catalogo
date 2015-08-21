@@ -8,4 +8,4 @@ commit f67f1cd8b1f8f918695ee09bea15e2c0bcc670fa
 Author: claretcoromoto <claretcoromoto@hotmail.es>
 Date:   Thu Aug 20 22:12:02 2015 -0430
 
-    cambie el titulo de la pestalla
+    cambie el titulo de la pestaña
